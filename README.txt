@@ -1,4 +1,3 @@
-%%%
 # RobotArm
 
 # Arduino
@@ -19,4 +18,3 @@ The Android application was written in MIT App Inventor, with the help of few ex
 The Android goal is to send signals to the Bluetooth module to control the arm. We will create/design an application with a simple and intuitive interface to connect to the Bluetooth and to control the arm.
 
 <img src="https://github.com/RCarapinha/RobotArm/blob/master/Images/Android.png" width="500">
-%%%
